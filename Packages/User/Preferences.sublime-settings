@@ -65,6 +65,7 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"Tag",
 		"Vintage"
 	],
 	"indent_guide_options":
