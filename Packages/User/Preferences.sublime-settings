@@ -1,4 +1,37 @@
 {
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"theme": "Cobalt2.sublime-theme",
+	"highlight_line": true,
+	"indent_guide_options": [ "draw_normal", "draw_active" ],
+	"highlight_modified_tabs": true,
+	"bold_folder_labels": true,
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"caret_extra_bottom": 1,
+	"caret_extra_top": 1,
+	"caret_extra_width": 1,
+	"caret_style": "smooth",
+	"close_windows_when_empty": false,
+	"copy_with_empty_selection": false,
+	"font_size": 14,
+	"match_brackets": true,
+	"match_brackets_angle": true,
+	"match_brackets_braces": true,
+	"match_brackets_content": true,
+	"match_brackets_square": true,
+	"open_files_in_new_window": false,
+	"overlay_scroll_bars": "enabled",
+	"rulers": [100],
+	"scroll_past_end": true,
+	"scroll_speed": 5.0,
+	"spacegray_sidebar_tree_xsmall": true,
+	"spacegray_tabs_large": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"wide_caret": true,
+	"word_wrap": true,
+	"wrap_width": 100,
 	"binary_file_patterns":
 	[
 		"generated/*",
@@ -21,14 +54,6 @@
 		"tmp/",
 		"*.min.js"
 	],
-	"bold_folder_labels": true,
-	"caret_extra_bottom": 1,
-	"caret_extra_top": 1,
-	"caret_extra_width": 1,
-	"caret_style": "smooth",
-	"close_windows_when_empty": false,
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
-	"copy_with_empty_selection": false,
 	"file_exclude_patterns":
 	[
 		"*.pyc",
@@ -60,41 +85,5 @@
 		".hg",
 		"CVS"
 	],
-	"font_size": 12,
-	"highlight_line": true,
-	"highlight_modified_tabs": true,
-	"ignored_packages":
-	[
-		"Tag",
-		"Vintage"
-	],
-	"indent_guide_options":
-	[
-		"draw_normal",
-		"draw_active"
-	],
-	"line_padding_bottom": 2,
-	"line_padding_top": 2,
-	"match_brackets": true,
-	"match_brackets_angle": true,
-	"match_brackets_braces": true,
-	"match_brackets_content": true,
-	"match_brackets_square": true,
-	"open_files_in_new_window": false,
-	"overlay_scroll_bars": "enabled",
-	"rulers":
-	[
-		100
-	],
-	"scroll_past_end": true,
-	"scroll_speed": 5.0,
-	"spacegray_sidebar_tree_xsmall": true,
-	"spacegray_tabs_large": true,
-	"tab_size": 2,
-	"theme": "Agila.sublime-theme",
-	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
-	"wide_caret": true,
-	"word_wrap": true,
-	"wrap_width": 100
+	"ignored_packages": ["Tag", "Vintage"],
 }
