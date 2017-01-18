@@ -22,10 +22,12 @@
 		"Markdown Preview",
 		"MarkdownEditing",
 		"Package Control",
+		"PostCSS Sorting",
 		"Pretty JSON",
 		"Sass",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
+		"Syntax Highlighting for PostCSS",
 		"Text Pastry",
 		"Theme - Cobalt2",
 		"Vue Syntax Highlight"
