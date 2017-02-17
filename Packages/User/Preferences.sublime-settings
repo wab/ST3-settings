@@ -27,7 +27,7 @@
 	"caret_extra_width": 1,
 	"caret_style": "smooth",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Ocean.tmTheme",
 	"copy_with_empty_selection": false,
 	"file_exclude_patterns":
 	[
@@ -60,7 +60,8 @@
 		".hg",
 		"CVS"
 	],
-	"font_size": 13,
+	"font_face": "Operator Mono Book",
+	"font_size": 12,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -80,6 +81,13 @@
 	"match_brackets_braces": true,
 	"match_brackets_content": true,
 	"match_brackets_square": true,
+	"material_theme_accent_cyan": true,
+	"material_theme_big_fileicons": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_contrast_mode": true,
+	"material_theme_small_statusbar": true,
+	"material_theme_small_tab": true,
+	"material_theme_tabs_separator": true,
 	"open_files_in_new_window": false,
 	"overlay_scroll_bars": "enabled",
 	"rulers":

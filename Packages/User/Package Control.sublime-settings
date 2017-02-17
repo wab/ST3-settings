@@ -12,6 +12,7 @@
 		"Boxy Theme",
 		"BracketHighlighter",
 		"Cobalt2 Flat Theme",
+		"Color Highlighter",
 		"Colorsublime",
 		"Emmet",
 		"FileDiffs",
@@ -21,7 +22,9 @@
 		"Markdown HTML Preview",
 		"Markdown Preview",
 		"MarkdownEditing",
+		"Material Theme",
 		"Package Control",
+		"PackageResourceViewer",
 		"PostCSS Sorting",
 		"Pretty JSON",
 		"Sass",
@@ -29,7 +32,9 @@
 		"SublimeLinter-contrib-eslint",
 		"Syntax Highlighting for PostCSS",
 		"Text Pastry",
+		"Theme - Autumn",
 		"Theme - Cobalt2",
+		"Theme - Kronuz",
 		"Vue Syntax Highlight"
 	]
 }
