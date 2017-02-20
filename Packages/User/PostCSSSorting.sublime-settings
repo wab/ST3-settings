@@ -13,13 +13,42 @@
       "type": "at-rule",
       "name": "extend"
     },
+    {
+      "type": "at-rule",
+      "name": "include",
+      "parameter": "mixtend-"
+    },
+    {
+      "type": "at-rule",
+      "name": "include",
+      "parameter": "if"
+    },
+    {
+      "type": "at-rule",
+      "name": "include",
+      "parameter": "elseif"
+    },
+    {
+      "type": "at-rule",
+      "name": "include",
+      "parameter": "else"
+    },
     "declarations",
     "at-rules",
     {
       "type": "at-rule",
       "name": "include"
     },
-    "rules"
+    {
+      "type": "at-rule",
+      "name": "media"
+    },
+    "rules",
+    {
+      "type": "at-rule",
+      "name": "each"
+    },
+
   ],
   "properties-order": [
     {
